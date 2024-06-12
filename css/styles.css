@@ -11698,3 +11698,11 @@ body {
 .footer {
   padding: 5rem 0;
 }
+
+section {
+  display: none;
+}
+
+section:target {
+  display: block;
+}
