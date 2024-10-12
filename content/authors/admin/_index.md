@@ -48,8 +48,8 @@ profiles:
 
 interests:
   - Physical oceanography and ocean dynamics
-  - Large scale: North Atlantic current system and AMOC
-  - Small scale: Internal Waves and mixing
+  - "Large scale: North Atlantic current system and AMOC"
+  - "Small scale: Internal Waves and mixing"
 
 education:
   - area: Dr. rer. nat. (PhD) in Physical Oceanography
