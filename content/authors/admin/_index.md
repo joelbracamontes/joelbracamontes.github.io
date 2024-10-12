@@ -48,8 +48,8 @@ profiles:
 
 interests:
   - Physical oceanography and ocean dynamics
-  - Large scale:' North Atlantic current system and AMOC
-  - Small scale:' Internal Waves and mixing
+  - Large scale: North Atlantic current system and AMOC
+  - Small scale: Internal Waves and mixing
 
 education:
   - area: Dr. rer. nat. (PhD) in Physical Oceanography
@@ -62,12 +62,12 @@ education:
       text: 
       url: 
   - area: MS in Earth Sciences (Atmospheric Sciences)
-    institution: Autonomous
+    institution: National Autonomous University of Mexico
     date_start: 
     date_end: 2018
     summary: 
   - area: BSc in Oceanography
-    institution: Massachusetts Institute of Technology
+    institution: University of Colima
     date_start: 
     date_end: 2015
     summary: |
